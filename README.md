@@ -1,2 +1,2 @@
 # automated_qa
-Test suites developer with selenium and unnitest
+Test suites developed with selenium and unnitest
